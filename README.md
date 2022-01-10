@@ -1,4 +1,4 @@
-# _{Application name here}_
+# _Crypto API_
 
 #### By _**{List of contributors}**_
 
@@ -6,7 +6,7 @@
 
 ## Github Pages Link
 
-[TITLE HERE Github Pages](https://patrick-dolan.github.io/APPLICATIONNAMEHERE/)
+
 
 ## Technologies Used
 

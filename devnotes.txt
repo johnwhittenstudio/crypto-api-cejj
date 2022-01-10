@@ -1,0 +1,16 @@
+Coinranking Developers
+https://developers.coinranking.com/api
+
+Click ```Sign In```
+
+Enter email address and password
+Click ```Create an Account```
+
+Go to email and verify/activate account
+
+API KEY will auto generate
+
+
+
+
+Qwsogvtv82FCd
